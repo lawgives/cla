@@ -1,0 +1,76 @@
+===================================================================
+v 1.2.0 - 7 July 2016
+-------------------------------------------------------------------
+NEW    - Added new home layout (home-landing-listing-1.html)
+NEW    - Added 2 new blocks to Variant
+UPDATE - Added ‘show on mobile only’ option to Variant
+FIX    - Safari back button cache issue
+FIX    - Improved responsive behaviour of Card elements
+FIX    - Removed redundant data-animation = fade option
+FIX    - Improved responsive behaviour of Login and Signup screens
+FIX    - Multi-column dropdown menu positioning issue
+FIX    - Two word filters on masonry galleries issue
+FIX    - Removed stray .vpe classes from Variant output
+FIX    - Variant not adding section in Safari
+
+
+Files affected:
+-------------------------------------------------------------------
+NEW    - home-landing-listing-1.html
+UPDATE - js/scripts.js
+UPDATE - variant/builder.html
+UPDATE - css/theme-*.css
+FIX    - variant/js/init.js
+
+ 
+===================================================================
+
+
+===================================================================
+v 1.1.0 - 9 June 2016
+-------------------------------------------------------------------
+NEW    - Added slide-out nav menu
+NEW    - Added stacked nav menu
+NEW    - Added corporate layout (home-business-corporate.html)
+NEW    - Added checkout and cart layouts for shop
+NEW    - Added new sections to Variant
+NEW    - Added blog sidebar section to Variant
+FIX    - Local video source editable in Variant
+FIX    - Copyright text in footers editable in Variant
+UPDATE - Modals now scrollable when content exceeds window height
+
+
+Files affected:
+-------------------------------------------------------------------
+NEW    - home-business-corporate.html
+NEW    - shop-cart.html
+NEW    - shop-checkout.html
+FIX    - variant/js/init.js
+UPDATE - elements-navigation.html
+UPDATE - js/scripts.js
+UPDATE - variant/builder.html
+
+ 
+===================================================================
+
+
+===================================================================
+v 1.0.1 - 2 June 2016
+-------------------------------------------------------------------
+FIX    - Added custom.css to allow style overrides
+FIX    - Videos in galleries are now editable in Variant
+
+
+Files affected:
+-------------------------------------------------------------------
+NEW    - css/custom.css
+UPDATE - variant/builder.html
+UPDATE - variant/js/init.js
+
+ 
+===================================================================
+
+
+===================================================================
+v 1.0.0 - INITAL RELEASE
+-------------------------------------------------------------------
