@@ -2984,6 +2984,13 @@ footer.space--sm {
   padding-top: 4.33333333em;
   padding-bottom: 4.33333333em;
 }
+
+section.space--xsm,
+footer.space--xsm {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 section.space--lg,
 footer.space--lg {
   padding-top: 13em;
