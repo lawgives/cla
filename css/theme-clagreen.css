@@ -7959,3 +7959,11 @@ section[class*='elements-'] hr + .row {
     margin-bottom: 0.8125em;
   }
 }
+
+/*! -- Legal.io Additions -- */
+
+.logo-image {
+  max-height:1.8em; 
+  opacity: 0.3; 
+  margin:12px 0px;
+}
