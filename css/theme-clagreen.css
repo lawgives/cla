@@ -3503,9 +3503,13 @@ span.label {
   .nav-bar a.nav-function span {
     display: inline-block;
   }
+  .nav-bar .menu > li > a {
+    margin: 6px 10px;
+
+  }
   .nav-bar.nav--transparent:not(.nav--scrolled):not(.nav--fixed) .menu > li > a {
     color: #343434;
-    margin: 6px 10px;
+  
   }
 }
 @keyframes navslide {
